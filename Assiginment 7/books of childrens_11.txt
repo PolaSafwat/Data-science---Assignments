@@ -1,0 +1,100 @@
+Book Name: Birdsong: A Story in ...
+Book Price: 54.64
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Bear and the ...
+Book Price: 36.89
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Secret of Dreadwillow ...
+Book Price: 56.13
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The White Cat and ...
+Book Price: 58.08
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Little Red
+Book Price: 13.47
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Walt Disney's Alice in ...
+Book Price: 12.96
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Twenty Yawns
+Book Price: 22.08
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Rain Fish
+Book Price: 23.57
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Once Was a Time
+Book Price: 18.28
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Luis Paints the World
+Book Price: 53.95
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Nap-a-Roo
+Book Price: 25.08
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Whale
+Book Price: 35.96
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Shrunken Treasures: Literary Classics, ...
+Book Price: 52.87
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Raymie Nightingale
+Book Price: 34.41
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Playing from the Heart
+Book Price: 32.38
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Maybe Something Beautiful: How ...
+Book Price: 22.54
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Wild Robot
+Book Price: 56.07
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Thing About Jellyfish
+Book Price: 48.77
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Lonely Ones
+Book Price: 43.59
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Day the Crayons ...
+Book Price: 26.33
+Book Rating: 5
+---------------------------------
+---------------------------------

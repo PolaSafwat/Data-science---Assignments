@@ -1,0 +1,100 @@
+Book Name: Foolproof Preserving: A Guide ...
+Book Price: 30.52
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Pioneer Woman Cooks: ...
+Book Price: 56.41
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: My Paris Kitchen: Recipes ...
+Book Price: 33.37
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Mama Tried: Traditional Italian ...
+Book Price: 14.02
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Layered: Baking, Building, and ...
+Book Price: 40.11
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Nerdy Nummies Cookbook: ...
+Book Price: 37.34
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Love and Lemons ...
+Book Price: 37.60
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Cookies & Cups ...
+Book Price: 41.25
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Deliciously Ella Every Day: ...
+Book Price: 42.16
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Help Yourself Cookbook ...
+Book Price: 28.77
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: It's All Easy: Healthy, ...
+Book Price: 19.55
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Barefoot Contessa Back to ...
+Book Price: 28.01
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Barefoot Contessa at Home: ...
+Book Price: 50.62
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: My Kitchen Year: 136 ...
+Book Price: 11.53
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Everyday Italian: 125 Simple ...
+Book Price: 20.10
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: A la Mode: 120 ...
+Book Price: 38.77
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Cravings: Recipes for What ...
+Book Price: 20.50
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Moosewood Cookbook: Recipes ...
+Book Price: 12.34
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: 32 Yolks
+Book Price: 53.63
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Naturally Lean: 125 Nourishing ...
+Book Price: 11.38
+Book Rating: 5
+---------------------------------
+---------------------------------

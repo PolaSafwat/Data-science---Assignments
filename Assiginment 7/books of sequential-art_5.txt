@@ -1,0 +1,100 @@
+Book Name: Scott Pilgrim's Precious Little ...
+Book Price: 52.29
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Tsubasa: WoRLD CHRoNiCLE 2 ...
+Book Price: 16.28
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: This One Summer
+Book Price: 19.49
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Nameless City (The ...
+Book Price: 38.16
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Saga, Volume 5 (Saga ...
+Book Price: 51.04
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Rat Queens, Vol. 3: ...
+Book Price: 50.40
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Princess Jellyfish 2-in-1 Omnibus, ...
+Book Price: 13.61
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Pop Gun War, Volume ...
+Book Price: 18.97
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Patience
+Book Price: 10.16
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Outcast, Vol. 1: A ...
+Book Price: 15.44
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: orange: The Complete Collection ...
+Book Price: 48.41
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Lumberjanes, Vol. 2: Friendship ...
+Book Price: 46.91
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Lumberjanes, Vol. 1: Beware ...
+Book Price: 45.61
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Lumberjanes Vol. 3: A ...
+Book Price: 19.92
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: I Hate Fairyland, Vol. ...
+Book Price: 29.17
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: I am a Hero ...
+Book Price: 54.63
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Giant Days, Vol. 2 ...
+Book Price: 22.11
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Danganronpa Volume 1
+Book Price: 51.99
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Codename Baboushka, Volume 1: ...
+Book Price: 36.72
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Camp Midnight
+Book Price: 17.08
+Book Rating: 4
+---------------------------------
+---------------------------------

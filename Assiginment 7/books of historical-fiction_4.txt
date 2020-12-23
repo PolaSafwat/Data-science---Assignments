@@ -1,0 +1,100 @@
+Book Name: Tipping the Velvet
+Book Price: 53.74
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Forever and Forever: The ...
+Book Price: 29.69
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: A Flight of Arrows ...
+Book Price: 55.53
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The House by the ...
+Book Price: 36.95
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Mrs. Houdini
+Book Price: 30.25
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Marriage of Opposites
+Book Price: 28.08
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Glory over Everything: Beyond ...
+Book Price: 45.84
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Love, Lies and Spies
+Book Price: 20.55
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: A Paris Apartment
+Book Price: 39.01
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Lilac Girls
+Book Price: 17.28
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Constant Princess (The ...
+Book Price: 16.62
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Invention of Wings
+Book Price: 37.34
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: World Without End (The ...
+Book Price: 32.97
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Passion of Dolssa
+Book Price: 28.32
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Girl With a Pearl ...
+Book Price: 26.77
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Voyager (Outlander #3)
+Book Price: 21.07
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Red Tent
+Book Price: 35.66
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Last Painting of ...
+Book Price: 55.55
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Guernsey Literary and ...
+Book Price: 49.53
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Girl in the Blue ...
+Book Price: 46.83
+Book Rating: 2
+---------------------------------
+---------------------------------

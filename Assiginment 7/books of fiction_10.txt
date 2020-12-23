@@ -1,0 +1,100 @@
+Book Name: Soumission
+Book Price: 50.10
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Private Paris (Private #10)
+Book Price: 47.61
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: We Love You, Charlie ...
+Book Price: 50.27
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Thirst
+Book Price: 17.27
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Murder That Never ...
+Book Price: 54.11
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Tuesday Nights in 1980
+Book Price: 21.04
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Vacationers
+Book Price: 42.15
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Regional Office Is ...
+Book Price: 51.36
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Finders Keepers (Bill Hodges ...
+Book Price: 53.53
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Time Keeper
+Book Price: 27.88
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Testament of Mary
+Book Price: 52.67
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The First Hostage (J.B. ...
+Book Price: 25.85
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Take Me with You
+Book Price: 45.21
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Still Life with Bread ...
+Book Price: 26.41
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Shtum
+Book Price: 55.84
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: My Name Is Lucy ...
+Book Price: 41.56
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: My Mrs. Brown
+Book Price: 24.48
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Mr. Mercedes (Bill Hodges ...
+Book Price: 28.90
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: I Am Pilgrim (Pilgrim ...
+Book Price: 10.60
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Eligible (The Austen Project ...
+Book Price: 27.09
+Book Rating: 3
+---------------------------------
+---------------------------------

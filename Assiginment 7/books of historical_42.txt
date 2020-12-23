@@ -1,0 +1,10 @@
+Book Name: All the Light We ...
+Book Price: 29.87
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Girl You Left ...
+Book Price: 15.79
+Book Rating: 1
+---------------------------------
+---------------------------------

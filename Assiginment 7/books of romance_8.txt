@@ -1,0 +1,100 @@
+Book Name: Chase Me (Paris Nights ...
+Book Price: 25.27
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Black Dust
+Book Price: 34.53
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Her Backup Boyfriend (The ...
+Book Price: 33.97
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: First and First (Five ...
+Book Price: 15.97
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Fifty Shades Darker (Fifty ...
+Book Price: 21.96
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Wedding Dress
+Book Price: 24.12
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Suddenly in Love (Lake ...
+Book Price: 55.99
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Something More Than This
+Book Price: 16.24
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Doing It Over (Most ...
+Book Price: 35.61
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Wedding Pact (The ...
+Book Price: 32.61
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Hold Your Breath (Search ...
+Book Price: 28.82
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Dirty (Dive Bar #1)
+Book Price: 40.83
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Take Me Home Tonight ...
+Book Price: 53.98
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Off the Hook (Fishing ...
+Book Price: 47.67
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: A Gentleman's Position (Society ...
+Book Price: 14.75
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Sit, Stay, Love
+Book Price: 20.90
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: A Girl's Guide to ...
+Book Price: 31.30
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Perfect Play (Play ...
+Book Price: 59.99
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Dark Lover (Black Dagger ...
+Book Price: 12.87
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Changing the Game (Play ...
+Book Price: 13.38
+Book Rating: 3
+---------------------------------
+---------------------------------

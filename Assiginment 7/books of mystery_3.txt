@@ -1,0 +1,100 @@
+Book Name: Sharp Objects
+Book Price: 47.82
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: In a Dark, Dark ...
+Book Price: 19.63
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Past Never Ends
+Book Price: 56.50
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: A Murder in Time
+Book Price: 16.64
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Murder of Roger ...
+Book Price: 44.10
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Last Mile (Amos ...
+Book Price: 54.21
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: That Darkness (Gardiner and ...
+Book Price: 13.92
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Tastes Like Fear (DI ...
+Book Price: 10.69
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: A Time of Torment ...
+Book Price: 48.35
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: A Study in Scarlet ...
+Book Price: 16.73
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Poisonous (Max Revere Novels ...
+Book Price: 26.80
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Murder at the 42nd ...
+Book Price: 54.36
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Most Wanted
+Book Price: 35.28
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Hide Away (Eve Duncan ...
+Book Price: 11.84
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Boar Island (Anna Pigeon ...
+Book Price: 59.48
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Widow
+Book Price: 27.26
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Playing with Fire
+Book Price: 13.71
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: What Happened on Beale ...
+Book Price: 25.37
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Bachelor Girl's Guide ...
+Book Price: 52.30
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Delivering the Truth (Quaker ...
+Book Price: 20.89
+Book Rating: 4
+---------------------------------
+---------------------------------

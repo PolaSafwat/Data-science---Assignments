@@ -1,0 +1,55 @@
+Book Name: In Her Wake
+Book Price: 12.84
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Elephant Tree
+Book Price: 23.82
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Behind Closed Doors
+Book Price: 52.22
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: You (You #1)
+Book Price: 43.61
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Guilty (Will Robie ...
+Book Price: 13.82
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The 14th Colony (Cotton ...
+Book Price: 39.24
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Give It Back
+Book Price: 18.32
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Killing Floor (Jack Reacher ...
+Book Price: 31.49
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Bone Hunters (Lexy ...
+Book Price: 59.71
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Far From True (Promise ...
+Book Price: 34.93
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Travelers
+Book Price: 15.77
+Book Rating: 1
+---------------------------------
+---------------------------------

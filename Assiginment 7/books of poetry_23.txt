@@ -1,0 +1,95 @@
+Book Name: A Light in the ...
+Book Price: 51.77
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Black Maria
+Book Price: 52.15
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Shakespeare's Sonnets
+Book Price: 20.66
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Olio
+Book Price: 23.88
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: You can't bury them ...
+Book Price: 33.63
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Slow States of Collapse: ...
+Book Price: 57.31
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Untitled Collection: Sabbath Poems ...
+Book Price: 14.27
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Poems That Make Grown ...
+Book Price: 14.19
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Night Sky with Exit ...
+Book Price: 41.05
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: salt.
+Book Price: 46.78
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Quarter Life Poetry: Poems ...
+Book Price: 50.89
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Out of Print: City ...
+Book Price: 53.64
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Les Fleurs du Mal
+Book Price: 29.04
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Howl and Other Poems
+Book Price: 40.45
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Leave This Song Behind: ...
+Book Price: 51.17
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Collected Poems of ...
+Book Price: 15.42
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Crossover
+Book Price: 38.77
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Booked
+Book Price: 17.49
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Twenty Love Poems and ...
+Book Price: 30.95
+Book Rating: 4
+---------------------------------
+---------------------------------

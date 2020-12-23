@@ -1,0 +1,15 @@
+Book Name: When We Collided
+Book Price: 31.77
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Someone Like You (The ...
+Book Price: 52.79
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: We Are All Completely ...
+Book Price: 24.04
+Book Rating: 1
+---------------------------------
+---------------------------------

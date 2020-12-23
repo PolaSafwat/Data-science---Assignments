@@ -1,0 +1,100 @@
+Book Name: The Requiem Red
+Book Price: 22.65
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Set Me Free
+Book Price: 17.46
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Natural History of ...
+Book Price: 45.22
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Obsidian (Lux #1)
+Book Price: 14.86
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Burning
+Book Price: 28.81
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: A Fierce and Subtle ...
+Book Price: 28.13
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Scarlett Epstein Hates It ...
+Book Price: 43.55
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Nightingale, Sing
+Book Price: 38.28
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Library of Souls (Miss ...
+Book Price: 48.56
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Frostbite (Vampire Academy #2)
+Book Price: 29.99
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Wild Swans
+Book Price: 14.36
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Until Friday Night (The ...
+Book Price: 46.31
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: This Is Where It ...
+Book Price: 27.12
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Darkest Lie
+Book Price: 35.35
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: My Kind of Crazy
+Book Price: 40.36
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Don't Get Caught
+Book Price: 55.35
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Catching Jordan (Hundred Oaks)
+Book Price: 50.83
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Aristotle and Dante Discover ...
+Book Price: 58.14
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Epidemic (The Program ...
+Book Price: 14.44
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Stars Above (The Lunar ...
+Book Price: 48.05
+Book Rating: 2
+---------------------------------
+---------------------------------

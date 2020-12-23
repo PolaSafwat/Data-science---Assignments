@@ -1,0 +1,100 @@
+Book Name: Worlds Elsewhere: Journeys Around ...
+Book Price: 40.30
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Five Love Languages: ...
+Book Price: 31.05
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Reasons to Stay Alive
+Book Price: 26.41
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: #HigherSelfie: Wake Up Your ...
+Book Price: 23.11
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Unseen City: The Majesty ...
+Book Price: 44.18
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Throwing Rocks at the ...
+Book Price: 31.12
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Life-Changing Magic of ...
+Book Price: 16.77
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Gutsy Girl: Escapades ...
+Book Price: 37.13
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Electric Pencil: Drawings ...
+Book Price: 56.06
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Spark Joy: An Illustrated ...
+Book Price: 41.83
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Reskilling America: Learning to ...
+Book Price: 19.83
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: In the Country We ...
+Book Price: 22.00
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Everydata: The Misinformation Hidden ...
+Book Price: 54.35
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Call the Nurse: True ...
+Book Price: 29.14
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Algorithms to Live By: ...
+Book Price: 30.81
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Power of Now: ...
+Book Price: 43.54
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Omnivore's Dilemma: A ...
+Book Price: 38.21
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Genius of Birds
+Book Price: 17.24
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Artist's Way: A ...
+Book Price: 38.49
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: So You've Been Publicly ...
+Book Price: 12.23
+Book Rating: 2
+---------------------------------
+---------------------------------

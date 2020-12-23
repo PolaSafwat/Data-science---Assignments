@@ -1,0 +1,15 @@
+Book Name: Libertarianism for Beginners
+Book Price: 51.33
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Why the Right Went ...
+Book Price: 52.65
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Equal Is Unfair: America's ...
+Book Price: 56.86
+Book Rating: 1
+---------------------------------
+---------------------------------

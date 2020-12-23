@@ -1,0 +1,60 @@
+Book Name: The Dirty Little Secrets ...
+Book Price: 33.34
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Third Wave: An ...
+Book Price: 12.61
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The 10% Entrepreneur: Live ...
+Book Price: 27.55
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Shoe Dog: A Memoir ...
+Book Price: 23.99
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Made to Stick: Why ...
+Book Price: 38.85
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Quench Your Own Thirst: ...
+Book Price: 43.14
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Art of Startup ...
+Book Price: 21.00
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Born for This: How ...
+Book Price: 21.59
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The E-Myth Revisited: Why ...
+Book Price: 36.91
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Rich Dad, Poor Dad
+Book Price: 51.74
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Lean Startup: How ...
+Book Price: 33.92
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Rework
+Book Price: 44.88
+Book Rating: 2
+---------------------------------
+---------------------------------

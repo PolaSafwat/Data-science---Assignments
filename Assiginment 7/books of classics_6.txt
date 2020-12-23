@@ -1,0 +1,95 @@
+Book Name: The Secret Garden
+Book Price: 15.08
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Metamorphosis
+Book Price: 28.58
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Pilgrim's Progress
+Book Price: 50.26
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Hound of the ...
+Book Price: 14.82
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Little Women (Little Women ...
+Book Price: 28.07
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Gone with the Wind
+Book Price: 32.49
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Candide
+Book Price: 58.63
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Animal Farm
+Book Price: 57.22
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Wuthering Heights
+Book Price: 17.73
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Picture of Dorian ...
+Book Price: 29.70
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Complete Stories and ...
+Book Price: 26.78
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Beowulf
+Book Price: 38.35
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: And Then There Were ...
+Book Price: 35.01
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Story of Hong ...
+Book Price: 43.19
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Little Prince
+Book Price: 45.42
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Sense and Sensibility
+Book Price: 37.46
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Of Mice and Men
+Book Price: 47.11
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Emma
+Book Price: 32.93
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Alice in Wonderland (Alice's ...
+Book Price: 55.53
+Book Rating: 1
+---------------------------------
+---------------------------------

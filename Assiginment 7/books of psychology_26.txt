@@ -1,0 +1,35 @@
+Book Name: The Lucifer Effect: Understanding ...
+Book Price: 10.40
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Golden Condom: And ...
+Book Price: 39.43
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: It Didn't Start with ...
+Book Price: 56.27
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: An Unquiet Mind: A ...
+Book Price: 21.30
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Thinking, Fast and Slow
+Book Price: 21.14
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Civilization and Its Discontents
+Book Price: 59.95
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: 8 Keys to Mental ...
+Book Price: 31.04
+Book Rating: 1
+---------------------------------
+---------------------------------

@@ -1,0 +1,40 @@
+Book Name: Wall and Piece
+Book Price: 44.18
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Feathers: Displays of Brilliant ...
+Book Price: 49.05
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Art and Fear: Observations ...
+Book Price: 48.63
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The New Drawing on ...
+Book Price: 43.02
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: History of Beauty
+Book Price: 10.29
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Story of Art
+Book Price: 41.14
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Art Book
+Book Price: 32.34
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Ways of Seeing
+Book Price: 39.51
+Book Rating: 5
+---------------------------------
+---------------------------------

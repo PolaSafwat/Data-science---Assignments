@@ -1,0 +1,45 @@
+Book Name: The Argonauts
+Book Price: 10.93
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: M Train
+Book Price: 27.18
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Lab Girl
+Book Price: 40.85
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Approval Junkie: Adventures in ...
+Book Price: 58.81
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Running with Scissors
+Book Price: 12.91
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Me Talk Pretty One ...
+Book Price: 57.60
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Lust & Wonder
+Book Price: 11.87
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Life Without a Recipe
+Book Price: 59.04
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: A Heartbreaking Work of ...
+Book Price: 54.29
+Book Rating: 5
+---------------------------------
+---------------------------------

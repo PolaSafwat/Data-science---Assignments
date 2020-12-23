@@ -1,0 +1,20 @@
+Book Name: The Bulletproof Diet: Lose ...
+Book Price: 49.05
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Eat Fat, Get Thin
+Book Price: 54.07
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: 10-Day Green Smoothie Cleanse: ...
+Book Price: 49.71
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Art and Science ...
+Book Price: 52.98
+Book Rating: 5
+---------------------------------
+---------------------------------

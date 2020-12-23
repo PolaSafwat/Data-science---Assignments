@@ -1,0 +1,80 @@
+Book Name: Mesaerion: The Best Science ...
+Book Price: 37.59
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Join
+Book Price: 35.67
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: William Shakespeare's Star Wars: ...
+Book Price: 43.30
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Project
+Book Price: 10.65
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Soft Apocalypse
+Book Price: 26.12
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Sleeping Giants (Themis Files ...
+Book Price: 48.74
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Arena
+Book Price: 21.36
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Foundation (Foundation (Publication Order) ...
+Book Price: 32.42
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Restaurant at the ...
+Book Price: 10.92
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Ready Player One
+Book Price: 19.07
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Life, the Universe and ...
+Book Price: 33.26
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Dune (Dune #1)
+Book Price: 54.86
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Do Androids Dream of ...
+Book Price: 51.48
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Three Wishes (River of ...
+Book Price: 44.18
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Last Girl (The ...
+Book Price: 36.26
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Having the Barbarian's Baby ...
+Book Price: 34.96
+Book Rating: 4
+---------------------------------
+---------------------------------

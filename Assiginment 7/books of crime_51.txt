@@ -1,0 +1,5 @@
+Book Name: The Long Shadow of ...
+Book Price: 10.97
+Book Rating: 1
+---------------------------------
+---------------------------------

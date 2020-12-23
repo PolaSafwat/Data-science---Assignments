@@ -1,0 +1,100 @@
+Book Name: The Coming Woman: A ...
+Book Price: 17.93
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: The Boys in the ...
+Book Price: 22.60
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Starving Hearts (Triangular Trade ...
+Book Price: 13.99
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: America's Cradle of Quarterbacks: ...
+Book Price: 22.50
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Aladdin and His Wonderful ...
+Book Price: 53.13
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Penny Maybe
+Book Price: 33.29
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Maude (1883-1993):She Grew Up ...
+Book Price: 18.02
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Inefficiency Assassin: Time ...
+Book Price: 20.59
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Soul Reader
+Book Price: 39.58
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Bossypants
+Book Price: 49.46
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: A World of Flavor: ...
+Book Price: 42.95
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: A Piece of Sky, ...
+Book Price: 56.76
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Tracing Numbers on a ...
+Book Price: 41.60
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Thirteen Reasons Why
+Book Price: 52.72
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Secret (The Secret ...
+Book Price: 27.37
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Psychopath Test: A ...
+Book Price: 36.00
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Kite Runner
+Book Price: 41.82
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Girl on the ...
+Book Price: 55.02
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Emerald Mystery
+Book Price: 23.15
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Bridge to Consciousness: ...
+Book Price: 32.00
+Book Rating: 3
+---------------------------------
+---------------------------------

@@ -1,0 +1,85 @@
+Book Name: Security
+Book Price: 39.25
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Follow You Home
+Book Price: 21.36
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Loney
+Book Price: 23.40
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Pet Sematary
+Book Price: 10.56
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Doctor Sleep (The Shining ...
+Book Price: 40.12
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Psycho: Sanitarium (Psycho #1.5)
+Book Price: 36.97
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Can You Keep a ...
+Book Price: 48.64
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Red Dragon (Hannibal Lecter ...
+Book Price: 23.37
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: Dracula the Un-Dead
+Book Price: 35.63
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Night Shift (Night Shift ...
+Book Price: 12.75
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Needful Things
+Book Price: 47.51
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Misery
+Book Price: 34.79
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: It
+Book Price: 25.01
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: 'Salem's Lot
+Book Price: 49.56
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Stand
+Book Price: 57.86
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: The Girl with All ...
+Book Price: 49.47
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: House of Leaves
+Book Price: 54.89
+Book Rating: 1
+---------------------------------
+---------------------------------

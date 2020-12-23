@@ -1,0 +1,65 @@
+Book Name: Rip it Up and ...
+Book Price: 35.02
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Our Band Could Be ...
+Book Price: 57.25
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: How Music Works
+Book Price: 37.32
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Love Is a Mix ...
+Book Price: 18.03
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Please Kill Me: The ...
+Book Price: 31.19
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Kill 'Em and Leave: ...
+Book Price: 45.05
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Chronicles, Vol. 1
+Book Price: 52.60
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: This Is Your Brain ...
+Book Price: 38.40
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Orchestra of Exiles: The ...
+Book Price: 12.36
+Book Rating: 3
+---------------------------------
+---------------------------------
+Book Name: No One Here Gets ...
+Book Price: 20.02
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Life
+Book Price: 31.58
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Old Records Never Die: ...
+Book Price: 55.66
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Forever Rockers (The Rocker ...
+Book Price: 28.80
+Book Rating: 3
+---------------------------------
+---------------------------------

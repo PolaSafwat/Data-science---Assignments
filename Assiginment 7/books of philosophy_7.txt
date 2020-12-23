@@ -1,0 +1,55 @@
+Book Name: Sophie's World
+Book Price: 15.94
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: The Death of Humanity: ...
+Book Price: 58.11
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: The Stranger
+Book Price: 17.44
+Book Rating: 4
+---------------------------------
+---------------------------------
+Book Name: Proofs of God: Classical ...
+Book Price: 54.21
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Kierkegaard: A Christian Missionary ...
+Book Price: 47.13
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: At The Existentialist CafÃ©: ...
+Book Price: 29.93
+Book Rating: 5
+---------------------------------
+---------------------------------
+Book Name: Critique of Pure Reason
+Book Price: 20.75
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Run, Spot, Run: The ...
+Book Price: 20.02
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: The Nicomachean Ethics
+Book Price: 36.34
+Book Rating: 1
+---------------------------------
+---------------------------------
+Book Name: Meditations
+Book Price: 25.89
+Book Rating: 2
+---------------------------------
+---------------------------------
+Book Name: Beyond Good and Evil
+Book Price: 43.38
+Book Rating: 1
+---------------------------------
+---------------------------------
